@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://shashwatbangar.github.io/sitemap/sitemap-index.xml
+Host: https://shashwatbangar.github.io
